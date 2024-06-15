@@ -1,5 +1,4 @@
-# Metronome
-A metronome made with Python
+
 # Python Metronome
 
 This is a simple metronome application built using Python and the `tkinter` and `pygame` libraries. The application allows users to set a tempo in Beats Per Minute (BPM) and plays a ticking sound at the specified tempo.
